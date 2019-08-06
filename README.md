@@ -2,16 +2,16 @@
 
 ## 电脑信息
 
-电脑型号	联想 80SH 笔记本电脑
-操作系统	Windows 10 64位 ( DirectX 12 )
-处理器	英特尔 Core i5-6300HQ @ 2.30GHz 四核
-主板	联想 XiaoXin 700-15ISK ( 100 Series/C230 Series 芯片组 Family - A14E )
-内存	8 GB ( 三星 DDR4 2133MHz / 金士顿 DDR4 2133MHz )
-主硬盘	三星 MZVLB256HAHQ-00000 ( 256 GB / 固态硬盘 )
-显卡	Nvidia GeForce GTX 950M ( 2 GB / 联想 )
-显示器	IPS2480 R240A ( 23.6 英寸  )
-声卡	瑞昱  @ 英特尔 High Definition Audio 控制器
-网卡	英特尔 Dual Band Wireless-AC 3165
+- 电脑型号	联想 80SH 笔记本电脑
+- 操作系统	Windows 10 64位 ( DirectX 12 )
+- 处理器	英特尔 Core i5-6300HQ @ 2.30GHz 四核
+- 主板	联想 XiaoXin 700-15ISK ( 100 Series/C230 Series 芯片组 Family - A14E )
+- 内存	8 GB ( 三星 DDR4 2133MHz / 金士顿 DDR4 2133MHz )
+- 主硬盘	三星 MZVLB256HAHQ-00000 ( 256 GB / 固态硬盘 )
+- 显卡	Nvidia GeForce GTX 950M ( 2 GB / 联想 )
+- 显示器	IPS2480 R240A ( 23.6 英寸  )
+- 声卡	瑞昱  @ 英特尔 High Definition Audio 控制器
+- 网卡	英特尔 Dual Band Wireless-AC 3165
 
 ## 使用方法
 
