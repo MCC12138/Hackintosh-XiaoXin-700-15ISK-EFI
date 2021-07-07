@@ -1,5 +1,8 @@
 # Hackintosh-联想 XiaoXin 700-15ISK-EFI
 
+## 提示
+  **！** 该EFI版本较老，已不适用，请转诗书陌大佬的OC引导：[github.com/ShiShuMo](https://github.com/ShiShuMo/Hackintosh-LENOVO-xiaoxin700-ideapad700-Opencore-OC)
+
 ## 电脑信息
 
 - 电脑型号	联想 80SH 笔记本电脑
